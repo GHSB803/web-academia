@@ -1,0 +1,31 @@
+.welcome {
+    display: flex;
+}
+
+.welcome-container > h1 {
+    color: #FCA311;
+    margin: 5px;
+}
+
+.welcome-container > p {
+    padding-top: 5%;
+    font-size: 25px;
+    color: #000;
+}
+
+.welcome-image {
+    width: 50vw;
+    height: 90vh;
+}
+
+.botao-2 {
+    background-color: #FCA311;
+    background-color: #FCA311;
+    margin-top: 20px;
+    width: 150px;
+    height: 30px;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1.3em;
+}
